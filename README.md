@@ -1,2 +1,2 @@
-# IVIF-via-Six-Paths-Deep-Neural-Network
-Infrared and Visible Image Fusion via Six Paths Deep Neural Network
+# multi-path-residual-neural-network-Based-IVIF
+A Deep Learning Based Relative Clarity Classification Method for Infrared and Visible Image Fusion
