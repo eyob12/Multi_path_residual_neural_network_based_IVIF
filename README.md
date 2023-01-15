@@ -17,7 +17,7 @@ Our computation platform is Linux Ubuntu OS, Intel(R) Xeon(R) CPU E5-2687W v3 @ 
 ![Objective evaluation with SOTA methods](https://user-images.githubusercontent.com/57870274/212557885-c368721a-3ad2-4358-a593-0b5196f5ad95.JPG)
 
 
-3.  Qualitative results
+2.  Qualitative results
 ![TNO_21](https://user-images.githubusercontent.com/57870274/212557919-8c7ee4a6-c957-498d-9d96-c8322ea38f6d.jpg)
 
 
