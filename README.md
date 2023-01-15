@@ -19,7 +19,6 @@ Our computation platform is Linux Ubuntu OS, Intel(R) Xeon(R) CPU E5-2687W v3 @ 
 3.  Qualitative results
 ![TNO_21](https://user-images.githubusercontent.com/57870274/212557919-8c7ee4a6-c957-498d-9d96-c8322ea38f6d.jpg)
 ![subjective eval](https://user-images.githubusercontent.com/57870274/212557926-eb682baa-cf70-4bc5-a1c3-95ed62e65fa3.jpg)
-![Man on the road](https://user-images.githubusercontent.com/57870274/212557937-28b4c3cb-cbd1-4b49-a87f-cc088fe4bf2d.jpg)
 
-![subjective eval](https://user-images.githubusercontent.com/57870274/212557895-7ed3b314-c019-4e4d-9b65-807a8c00384d.jpg)
+
 
